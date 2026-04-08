@@ -4,3 +4,6 @@ models/
 __pycache__/
 .ipynb_checkpoints/
 .env
+pyproject.toml
+creditcard_fraud.egg-info
+.vscode
